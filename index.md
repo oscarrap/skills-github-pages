@@ -1,4 +1,4 @@
 ---
-title:<h1> Bienvenidos<h1>
+title:<h1> Bienvenidos
 ---
 
